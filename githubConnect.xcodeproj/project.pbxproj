@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD2FEC912B2B258700BF1BF2 /* githubConnect in Resources */ = {isa = PBXBuildFile; fileRef = DD2FEC902B2B258700BF1BF2 /* githubConnect */; };
 		DD47A5342B2AE3350094B1E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD47A5332B2AE3350094B1E5 /* AppDelegate.swift */; };
 		DD47A5362B2AE3350094B1E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD47A5352B2AE3350094B1E5 /* SceneDelegate.swift */; };
 		DD47A5382B2AE3350094B1E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD47A5372B2AE3350094B1E5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD2FEC902B2B258700BF1BF2 /* githubConnect */ = {isa = PBXFileReference; lastKnownFileType = folder; name = githubConnect; sourceTree = "<group>"; };
 		DD47A5302B2AE3350094B1E5 /* githubConnect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = githubConnect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD47A5332B2AE3350094B1E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD47A5352B2AE3350094B1E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				DD47A5332B2AE3350094B1E5 /* AppDelegate.swift */,
 				DD47A5352B2AE3350094B1E5 /* SceneDelegate.swift */,
 				DD47A5372B2AE3350094B1E5 /* ViewController.swift */,
+				DD2FEC902B2B258700BF1BF2 /* githubConnect */,
 				DD47A5392B2AE3350094B1E5 /* Main.storyboard */,
 				DD47A53C2B2AE3370094B1E5 /* Assets.xcassets */,
 				DD47A53E2B2AE3370094B1E5 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				DD47A5402B2AE3370094B1E5 /* LaunchScreen.storyboard in Resources */,
 				DD47A53D2B2AE3370094B1E5 /* Assets.xcassets in Resources */,
+				DD2FEC912B2B258700BF1BF2 /* githubConnect in Resources */,
 				DD47A53B2B2AE3350094B1E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
